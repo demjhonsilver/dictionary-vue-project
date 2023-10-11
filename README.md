@@ -13,7 +13,7 @@
 
 ## Description
 
-This is asimple dictionary web application using Vue 3.
+This is a simple dictionary web application using Vue 3.
 
 
 ## Author
