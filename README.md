@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/demjhonsilver/dictionary-vue-project/main/img/screenshot.png" alt="Logo" width="70" height="70"/>
+<img src="https://raw.githubusercontent.com/demjhonsilver/dictionary-vue-project/main/public/screenshot.png" alt="Logo" width="800" height="450"/>
 
 </p>
 
