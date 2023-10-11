@@ -1,12 +1,12 @@
 <template>
   <div class="app-container">
     <header>
-      <h1>Dictionary - Vue Application</h1>
+      <p>Dictionary - Vue Application</p>
     </header>
 
     <main>
       <div class="search-container">
-        <input v-model="searchTerm" @input="searchMeaning" placeholder="Enter a word" class="search-input">
+        <input v-model="searchTerm" @input="searchMeaning" placeholder="Type: happy" class="search-input">
         <button class="search-button" @click="searchMeaning">Search</button>
       </div>
       <div v-if="meaning" class="results">
