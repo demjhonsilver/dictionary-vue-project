@@ -4,6 +4,14 @@
 
 </p>
 
+
+<p align="center">
+
+[Visit DEMO](https://dictionary-vue-project.vercel.app/)
+
+</p>
+
+
 <h1>Dictionary Vue Application</h1>
 
 - [Description](#description)
