@@ -2,6 +2,8 @@
   <div class="app-container">
     <header>
       <p>Dictionary - Vue Application</p>
+      <div class="created">created by: <a v-bind:href="'https://www.demjhonsilver.com'" target="_blank">Demjhon Silver</a>
+      </div>
     </header>
 
     <main>

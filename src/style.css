@@ -23,6 +23,23 @@
   font-family: Arial, Helvetica, sans-serif;
   }
 
+  .created {
+    margin-top: -18px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+  }
+
+  .created a {
+    text-decoration: none;
+    color: #ffffff;
+    font-style: italic;
+  }
+
+  .created a:hover {
+    text-decoration: underline;
+  
+  }
 
   .main {
     padding-top: 60px; 
@@ -130,6 +147,13 @@
       margin-right: 10px;
     }
     
+    .created {
+      margin-top: -18px;
+      font-size: 12px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+    }
+  
   }
 
 
@@ -147,6 +171,11 @@
       font-family: Arial, Helvetica, sans-serif;
     }
 
-
+    .created {
+      margin-top: -5px;
+      font-size: 12px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+    }
 
 }
