@@ -8,7 +8,7 @@
 
     <main>
       <div class="search-container">
-        <input v-model="searchTerm" @input="searchMeaning" placeholder="Type: happy" class="search-input">
+        <input v-model="searchTerm" @input="searchMeaning" placeholder="type: word" class="search-input">
         <button class="search-button" @click="searchMeaning">Search</button>
       </div>
       <div v-if="meaning" class="results">
